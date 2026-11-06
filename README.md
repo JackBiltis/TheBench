@@ -6,4 +6,4 @@ runs surveys so the ratings reach every lawyer in a jurisdiction, not only the o
 
 Status: planned (2026-11-06). The plan is [THEBENCH.md](THEBENCH.md). No code yet.
 
-A WetSpark lab project; "TheBench" is the working name.
+A WetSpark lab project (public repo), to launch as its own company; "TheBench" is the working name.

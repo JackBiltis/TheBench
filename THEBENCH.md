@@ -244,7 +244,7 @@ Ratings store:
 
 ## 11. Identity and WetSpark
 
-Recommendation: **its own entity at launch**, not a WetSpark trade name, for two reasons: the
+**Its own entity at launch** (Jack, 2026-11-06), not a WetSpark trade name, for two reasons: the
 defamation and subpoena exposure should not sit on the company that owns the other products, and
 independence is part of the product's credibility. Until then, a WetSpark lab project, private on
 the site (listed in the portfolio with status `lab`, `identity: 'entity'`, public: false), the same
@@ -262,15 +262,15 @@ treatment as DocQuote and Private Court. Counsel and media-liability insurance b
 
 Keep the working name for the folder; pick the launch name with the entity name in phase 3.
 
-## 13. Decisions for Jack
+## 13. Decisions (Jack, 2026-11-06)
 
-1. Go ahead with the plan as the lab project, with Arizona lawyers-rate-judges as phase 1?
-2. Own entity at launch (recommended) or a WetSpark trade name?
-3. Private repo (recommended, given the legal exposure and the identity design) or public?
-4. WetSpark portfolio: lab and private (recommended) or shown on the site?
+1. Phase 1 scope: **open; Jack wants the options discussed** before choosing (see the WetSpark session of 2026-11-06).
+2. Own entity at launch; WetSpark incubates it until then.
+3. The repo is public.
+4. WetSpark portfolio: `lab`, private (off the site).
 
 ## 14. Branches and pull requests
 
 | Repo | Branch | Pull request | State |
 |---|---|---|---|
-| JackBiltis/TheBench | main | none (Jack's own repo: commits go straight to main) | plan only |
+| [JackBiltis/TheBench](https://github.com/JackBiltis/TheBench) (public) | main | none (Jack's own repo: commits go straight to main) | plan only |
