@@ -273,4 +273,4 @@ Keep the working name for the folder; pick the launch name with the entity name 
 
 | Repo | Branch | Pull request | State |
 |---|---|---|---|
-| [JackBiltis/TheBench](https://github.com/JackBiltis/TheBench) (public) | main | none (Jack's own repo: commits go straight to main) | plan only |
+| [wetsparkventures/TheBench](https://github.com/wetsparkventures/TheBench) (public) | main | none (Jack's own repo: commits go straight to main) | plan only |
